@@ -3,7 +3,7 @@ a. What is an issue?
 Something that needs to be fixed and is or may cause incidents in the code. For example a bug.
 
 b. What is a pull request?
-
+Request to update a code 
 c. How do I open up a pull request?
 
 d. Give me a step by step guide on how to add someone to your repository.
